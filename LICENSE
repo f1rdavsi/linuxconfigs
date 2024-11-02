@@ -3,31 +3,34 @@ Strict Proprietary License
 Copyright (c) 2024 Фирдавс Фозилов. All rights reserved.
 
 ### License Grant
-This software and its associated documentation (the "Software") are licensed, not sold. By obtaining a copy of this Software, you are granted a revocable, non-exclusive, non-transferable, and limited right to install and use the Software exclusively for internal purposes. All rights not expressly granted to you are reserved by Фирдавс Фозилов.
+This software and associated documentation files (the "Software") are licensed, not sold. By obtaining a copy of this Software, you are granted a revocable, non-exclusive, non-transferable, and limited right to install and use the Software solely for internal, non-commercial purposes. All rights not explicitly granted herein are reserved by Фирдавс Фозилов.
 
 ### Prohibited Actions
-Unless explicitly permitted by a prior, written agreement from Фирдавс Фозилов, you are strictly prohibited from:
+Unless expressly permitted by prior written consent from Фирдавс Фозилов, you are strictly prohibited from:
 
-1. **Copying or Distributing**: You may not copy, distribute, share, sublicense, rent, lease, sell, or otherwise transfer the Software, in whole or in part, to any third party.
-2. **Modification and Derivative Works**: You may not alter, modify, create derivative works, or otherwise adapt the Software in any manner.
+1. **Copying or Distribution**: You may not copy, distribute, share, sublicense, rent, lease, sell, or otherwise transfer the Software, in whole or in part, to any third party.
+2. **Modification and Derivative Works**: You may not alter, modify, create derivative works, or otherwise adapt the Software in any way.
 3. **Reverse Engineering**: You may not decompile, disassemble, reverse engineer, or attempt to discover the source code or underlying structure of the Software.
-4. **Commercial Use**: The Software may not be used for commercial purposes without explicit permission. Non-commercial, private, internal use only is permitted.
-5. **Network and Cloud Usage**: The Software may not be installed or used on a public network or cloud platform accessible to anyone outside of your immediate environment.
+4. **Commercial Use**: The Software may not be used for commercial purposes without explicit permission. Only non-commercial, internal use is permitted.
+5. **Network and Cloud Usage**: The Software may not be installed or used on a public network or cloud platform accessible to anyone outside your immediate, internal environment.
 
 ### Confidentiality
-You agree to treat the Software as strictly confidential information. You may not disclose, share, or provide access to the Software or any of its functionalities to any third party.
+The Software is considered strictly confidential. You agree not to disclose, share, or otherwise provide access to the Software or any of its functionalities to any third party.
 
 ### Intellectual Property Rights
-The Software, all copies of it, and any associated intellectual property rights remain the exclusive property of Фирдавс Фозилов. You acknowledge that no ownership or title to the Software is transferred to you, and you have no rights other than those explicitly granted in this License.
+The Software, all copies thereof, and any associated intellectual property rights remain the exclusive property of Фирдавс Фозилов. This License does not transfer ownership or title to you; all rights are retained by Фирдавс Фозилов.
 
 ### Termination
-Your rights under this License are effective until terminated. These rights will automatically terminate without notice if you violate any terms of this License. Upon termination, you must immediately delete all copies of the Software in your possession and certify in writing that you have complied with this requirement.
+This License and your rights under it are effective until terminated. Your rights will automatically terminate without notice if you fail to comply with any of its terms. Upon termination, you must delete all copies of the Software in your possession and certify in writing that this has been done.
+
+### Limited Warranty
+The Software is provided "as is," without any warranties or conditions, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. You assume all risks associated with using the Software.
 
 ### Limitation of Liability
-IN NO EVENT SHALL Фирдавс Фозилов BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+To the maximum extent permitted by law, under no circumstances shall Фирдавс Фозилов be liable for any direct, indirect, incidental, special, or consequential damages, including but not limited to loss of data, loss of profits, or business interruption, arising from or related to the use or inability to use the Software, even if advised of the possibility of such damages.
 
-### Disclaimer of Warranty
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+### Indemnification
+You agree to indemnify, defend, and hold harmless Фирдавс Фозилов, its affiliates, and its agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including attorneys' fees) arising out of or in any way connected to your use of the Software, any breach of this License, or any unauthorized use, disclosure, or distribution of the Software.
 
 ---
 
