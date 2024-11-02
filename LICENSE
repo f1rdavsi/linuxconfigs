@@ -1,21 +1,34 @@
-MIT License
+Strict Proprietary License
 
-Copyright (c) 2024 Фирдавс Фозилов
+Copyright (c) 2024 Фирдавс Фозилов. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### License Grant
+This software and its associated documentation (the "Software") are licensed, not sold. By obtaining a copy of this Software, you are granted a revocable, non-exclusive, non-transferable, and limited right to install and use the Software exclusively for internal purposes. All rights not expressly granted to you are reserved by Фирдавс Фозилов.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+### Prohibited Actions
+Unless explicitly permitted by a prior, written agreement from Фирдавс Фозилов, you are strictly prohibited from:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. **Copying or Distributing**: You may not copy, distribute, share, sublicense, rent, lease, sell, or otherwise transfer the Software, in whole or in part, to any third party.
+2. **Modification and Derivative Works**: You may not alter, modify, create derivative works, or otherwise adapt the Software in any manner.
+3. **Reverse Engineering**: You may not decompile, disassemble, reverse engineer, or attempt to discover the source code or underlying structure of the Software.
+4. **Commercial Use**: The Software may not be used for commercial purposes without explicit permission. Non-commercial, private, internal use only is permitted.
+5. **Network and Cloud Usage**: The Software may not be installed or used on a public network or cloud platform accessible to anyone outside of your immediate environment.
+
+### Confidentiality
+You agree to treat the Software as strictly confidential information. You may not disclose, share, or provide access to the Software or any of its functionalities to any third party.
+
+### Intellectual Property Rights
+The Software, all copies of it, and any associated intellectual property rights remain the exclusive property of Фирдавс Фозилов. You acknowledge that no ownership or title to the Software is transferred to you, and you have no rights other than those explicitly granted in this License.
+
+### Termination
+Your rights under this License are effective until terminated. These rights will automatically terminate without notice if you violate any terms of this License. Upon termination, you must immediately delete all copies of the Software in your possession and certify in writing that you have complied with this requirement.
+
+### Limitation of Liability
+IN NO EVENT SHALL Фирдавс Фозилов BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+### Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+---
+
+For any inquiries regarding this license, please contact Фирдавс Фозилов.
